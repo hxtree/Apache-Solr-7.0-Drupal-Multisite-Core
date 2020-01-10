@@ -1,10 +1,11 @@
-#Solr Drupal MultiSite Core
+# Solr Drupal MultiSite Core
 
 This is a Solr 7.0 core customized to handle drupal multisite solr module with Solr 7.0.
 
 The package is not maintained and was never meant to be supported. That being said, it was used in production for a couple years without issues.
 
 Installation of Solr 7.0 was similar to following:
+
 ```
 sudo apt install deault-jre-headless default-jdk
 cd /tmp
