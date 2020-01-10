@@ -1,4 +1,4 @@
-# Solr Drupal MultiSite Core
+# Solr 7.0 Drupal MultiSite Core
 
 This is a Solr 7.0 core customized to handle drupal multisite solr module with Solr 7.0.
 
